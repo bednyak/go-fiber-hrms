@@ -1,4 +1,4 @@
-# Go-fiber-simple-CRM
+# Go-fiber-HRMS
 ### Run
 ```
 docker-compose up -d
